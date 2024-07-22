@@ -1,1 +1,16 @@
-# OngleapHyorin
+<pre>
+@font-face {
+    font-family: "OngleapHyorin";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/OngleapHyorin/OngleapHyorin.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleapHyorin/OngleapHyorin.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/OngleapHyorin/OngleapHyorin.ttf") format("truetype");
+    font-display: swap;
+}
+
+.OngleapHyorin {
+    font-family: "OngleapHyorin";
+}
+  
+</pre>
